@@ -1,0 +1,35 @@
+2025-02-19 11:09:17,520 - INFO - Found 8 PPT files to convert
+2025-02-19 11:09:17,540 - INFO - Could not import comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_12: No module named 'comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_12'
+2025-02-19 11:09:17,543 - INFO - # Generating comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_12
+2025-02-19 11:09:19,975 - INFO - # Generating comtypes.gen.PowerPoint
+2025-02-19 11:09:19,980 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-02-19 11:09:19,982 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-02-19 11:09:20,052 - INFO - # Generating comtypes.gen.stdole
+2025-02-19 11:09:20,099 - INFO - Could not import comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8: No module named 'comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8'
+2025-02-19 11:09:20,099 - INFO - # Generating comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8
+2025-02-19 11:09:22,294 - INFO - # Generating comtypes.gen.Office
+2025-02-19 11:09:22,552 - INFO - Could not import comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3: No module named 'comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3'
+2025-02-19 11:09:22,553 - INFO - # Generating comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3
+2025-02-19 11:09:22,746 - INFO - # Generating comtypes.gen.VBIDE
+2025-02-19 11:09:23,055 - INFO - Converting: ch03a-scanning.ppt
+2025-02-19 11:09:28,421 - ERROR - Error converting ch03a-scanning.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:09:29,431 - INFO - Converting: ch03b-digital-photography.ppt
+2025-02-19 11:09:33,971 - ERROR - Error converting ch03b-digital-photography.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:09:35,098 - INFO - Converting: ch03c-digital-image-retouching.ppt
+2025-02-19 11:09:40,027 - ERROR - Error converting ch03c-digital-image-retouching.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:09:41,035 - INFO - Converting: ch03d-color-and-tonal-adjustment.ppt
+2025-02-19 11:09:45,786 - ERROR - Error converting ch03d-color-and-tonal-adjustment.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:09:46,954 - INFO - Converting: ch03e-selection-tool-and-layer-basics.ppt
+2025-02-19 11:09:52,135 - ERROR - Error converting ch03e-selection-tool-and-layer-basics.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:09:53,280 - INFO - Converting: ch03f-output-images-for-print.ppt
+2025-02-19 11:09:57,896 - ERROR - Error converting ch03f-output-images-for-print.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:09:59,072 - INFO - Converting: ch03g-output-images-for-web.ppt
+2025-02-19 11:10:05,884 - ERROR - Error converting ch03g-output-images-for-web.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:10:07,048 - INFO - Converting: ch03h-vector-graphic.ppt
+2025-02-19 11:10:11,548 - ERROR - Error converting ch03h-vector-graphic.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:10:12,676 - INFO - 
+        Conversion Complete:
+        - Total files: 8
+        - Successful: 0
+        - Failed: 8
+        

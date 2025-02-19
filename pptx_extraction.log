@@ -1,0 +1,92 @@
+2025-02-19 11:13:09,134 - INFO - Found 8 PPTX files to convert
+2025-02-19 11:13:09,135 - INFO - Processing: ch03a-scanning.pptx
+2025-02-19 11:13:09,151 - ERROR - Error converting ch03a-scanning.pptx: 'TextFrame' object has no attribute 'text_frames'
+2025-02-19 11:13:09,152 - INFO - Processing: ch03b-digital-photography.pptx
+2025-02-19 11:13:09,160 - ERROR - Error converting ch03b-digital-photography.pptx: 'TextFrame' object has no attribute 'text_frames'
+2025-02-19 11:13:09,160 - INFO - Processing: ch03c-digital-image-retouching.pptx
+2025-02-19 11:13:09,185 - ERROR - Error converting ch03c-digital-image-retouching.pptx: 'TextFrame' object has no attribute 'text_frames'
+2025-02-19 11:13:09,185 - INFO - Processing: ch03d-color-and-tonal-adjustment.pptx
+2025-02-19 11:13:09,201 - ERROR - Error converting ch03d-color-and-tonal-adjustment.pptx: 'TextFrame' object has no attribute 'text_frames'
+2025-02-19 11:13:09,201 - INFO - Processing: ch03e-selection-tool-and-layer-basics.pptx
+2025-02-19 11:13:09,212 - ERROR - Error converting ch03e-selection-tool-and-layer-basics.pptx: 'TextFrame' object has no attribute 'text_frames'
+2025-02-19 11:13:09,214 - INFO - Processing: ch03f-output-images-for-print.pptx
+2025-02-19 11:13:09,380 - ERROR - Error converting ch03f-output-images-for-print.pptx: shape does not contain a table
+2025-02-19 11:13:09,380 - INFO - Processing: ch03g-output-images-for-web.pptx
+2025-02-19 11:13:09,392 - ERROR - Error converting ch03g-output-images-for-web.pptx: 'TextFrame' object has no attribute 'text_frames'
+2025-02-19 11:13:09,392 - INFO - Processing: ch03h-vector-graphic.pptx
+2025-02-19 11:13:09,409 - ERROR - Error converting ch03h-vector-graphic.pptx: 'TextFrame' object has no attribute 'text_frames'
+2025-02-19 11:13:09,409 - INFO - 
+        Conversion Complete:
+        - Total files: 8
+        - Successful: 0
+        - Failed: 8
+        
+2025-02-19 11:14:20,717 - INFO - Found 8 PPTX files to convert
+2025-02-19 11:14:20,726 - INFO - Processing: ch03a-scanning.pptx
+2025-02-19 11:14:20,746 - INFO - Successfully converted: ch03a-scanning.pptx
+2025-02-19 11:14:20,746 - INFO - Output files: ch03a-scanning.txt, ch03a-scanning_with_notes.txt
+2025-02-19 11:14:20,746 - INFO - Processing: ch03b-digital-photography.pptx
+2025-02-19 11:14:20,758 - INFO - Successfully converted: ch03b-digital-photography.pptx
+2025-02-19 11:14:20,758 - INFO - Output files: ch03b-digital-photography.txt, ch03b-digital-photography_with_notes.txt
+2025-02-19 11:14:20,758 - INFO - Processing: ch03c-digital-image-retouching.pptx
+2025-02-19 11:14:20,779 - INFO - Successfully converted: ch03c-digital-image-retouching.pptx
+2025-02-19 11:14:20,779 - INFO - Output files: ch03c-digital-image-retouching.txt, ch03c-digital-image-retouching_with_notes.txt
+2025-02-19 11:14:20,779 - INFO - Processing: ch03d-color-and-tonal-adjustment.pptx
+2025-02-19 11:14:20,804 - INFO - Successfully converted: ch03d-color-and-tonal-adjustment.pptx
+2025-02-19 11:14:20,804 - INFO - Output files: ch03d-color-and-tonal-adjustment.txt, ch03d-color-and-tonal-adjustment_with_notes.txt
+2025-02-19 11:14:20,804 - INFO - Processing: ch03e-selection-tool-and-layer-basics.pptx
+2025-02-19 11:14:20,818 - INFO - Successfully converted: ch03e-selection-tool-and-layer-basics.pptx
+2025-02-19 11:14:20,818 - INFO - Output files: ch03e-selection-tool-and-layer-basics.txt, ch03e-selection-tool-and-layer-basics_with_notes.txt
+2025-02-19 11:14:20,819 - INFO - Processing: ch03f-output-images-for-print.pptx
+2025-02-19 11:14:20,856 - INFO - Successfully converted: ch03f-output-images-for-print.pptx
+2025-02-19 11:14:20,856 - INFO - Output files: ch03f-output-images-for-print.txt, ch03f-output-images-for-print_with_notes.txt
+2025-02-19 11:14:20,857 - INFO - Processing: ch03g-output-images-for-web.pptx
+2025-02-19 11:14:20,875 - INFO - Successfully converted: ch03g-output-images-for-web.pptx
+2025-02-19 11:14:20,875 - INFO - Output files: ch03g-output-images-for-web.txt, ch03g-output-images-for-web_with_notes.txt
+2025-02-19 11:14:20,875 - INFO - Processing: ch03h-vector-graphic.pptx
+2025-02-19 11:14:20,895 - INFO - Successfully converted: ch03h-vector-graphic.pptx
+2025-02-19 11:14:20,896 - INFO - Output files: ch03h-vector-graphic.txt, ch03h-vector-graphic_with_notes.txt
+2025-02-19 11:14:20,896 - INFO - 
+        Conversion Complete:
+        - Total files: 8
+        - Successful: 8
+        - Failed: 0
+        
+2025-02-19 11:16:28,916 - INFO - Found 8 PPTX files to convert
+2025-02-19 11:16:28,916 - INFO - Output directories:
+2025-02-19 11:16:28,916 - INFO -   - Default text files: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch3-txt\default
+2025-02-19 11:16:28,916 - INFO -   - Files with notes: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch3-txt\noted
+2025-02-19 11:16:28,922 - INFO - Processing: ch03a-scanning.pptx
+2025-02-19 11:16:28,941 - INFO - Created default version: ch03a-scanning.txt
+2025-02-19 11:16:28,941 - INFO - Created version with notes: ch03a-scanning.txt
+2025-02-19 11:16:28,942 - INFO - Processing: ch03b-digital-photography.pptx
+2025-02-19 11:16:28,954 - INFO - Created default version: ch03b-digital-photography.txt
+2025-02-19 11:16:28,954 - INFO - Created version with notes: ch03b-digital-photography.txt
+2025-02-19 11:16:28,955 - INFO - Processing: ch03c-digital-image-retouching.pptx
+2025-02-19 11:16:28,976 - INFO - Created default version: ch03c-digital-image-retouching.txt
+2025-02-19 11:16:28,977 - INFO - Created version with notes: ch03c-digital-image-retouching.txt
+2025-02-19 11:16:28,977 - INFO - Processing: ch03d-color-and-tonal-adjustment.pptx
+2025-02-19 11:16:29,002 - INFO - Created default version: ch03d-color-and-tonal-adjustment.txt
+2025-02-19 11:16:29,002 - INFO - Created version with notes: ch03d-color-and-tonal-adjustment.txt
+2025-02-19 11:16:29,003 - INFO - Processing: ch03e-selection-tool-and-layer-basics.pptx
+2025-02-19 11:16:29,017 - INFO - Created default version: ch03e-selection-tool-and-layer-basics.txt
+2025-02-19 11:16:29,017 - INFO - Created version with notes: ch03e-selection-tool-and-layer-basics.txt
+2025-02-19 11:16:29,018 - INFO - Processing: ch03f-output-images-for-print.pptx
+2025-02-19 11:16:29,053 - INFO - Created default version: ch03f-output-images-for-print.txt
+2025-02-19 11:16:29,053 - INFO - Created version with notes: ch03f-output-images-for-print.txt
+2025-02-19 11:16:29,053 - INFO - Processing: ch03g-output-images-for-web.pptx
+2025-02-19 11:16:29,069 - INFO - Created default version: ch03g-output-images-for-web.txt
+2025-02-19 11:16:29,069 - INFO - Created version with notes: ch03g-output-images-for-web.txt
+2025-02-19 11:16:29,069 - INFO - Processing: ch03h-vector-graphic.pptx
+2025-02-19 11:16:29,090 - INFO - Created default version: ch03h-vector-graphic.txt
+2025-02-19 11:16:29,091 - INFO - Created version with notes: ch03h-vector-graphic.txt
+2025-02-19 11:16:29,091 - INFO - 
+        Conversion Complete:
+        - Total files: 8
+        - Successful: 8
+        - Failed: 0
+        
+        Output locations:
+        - Default text files: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch3-txt\default
+        - Files with notes: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch3-txt\noted
+        

@@ -1,0 +1,101 @@
+2025-02-19 11:19:24,075 - WARNING - No PPTX files found to process
+2025-02-19 11:19:48,228 - INFO - Found 4 PPT files to convert
+2025-02-19 11:19:48,915 - INFO - Converting to PPTX: ch02a-digitizing-images.ppt
+2025-02-19 11:19:51,097 - ERROR - Error converting to PPTX ch02a-digitizing-images.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:19:52,106 - INFO - Converting to PPTX: ch02b-bitmap-vector.ppt
+2025-02-19 11:19:57,707 - ERROR - Error converting to PPTX ch02b-bitmap-vector.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:19:58,869 - INFO - Converting to PPTX: ch02c-file-compression.ppt
+2025-02-19 11:20:04,562 - ERROR - Error converting to PPTX ch02c-file-compression.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:20:05,568 - INFO - Converting to PPTX: ch02d-color-representation.ppt
+2025-02-19 11:20:12,096 - ERROR - Error converting to PPTX ch02d-color-representation.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:20:13,098 - INFO - Found 4 PPTX files to process
+2025-02-19 11:20:13,099 - INFO - Output directories:
+2025-02-19 11:20:13,099 - INFO -   - Default text files: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\default
+2025-02-19 11:20:13,099 - INFO -   - Files with notes: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\noted
+2025-02-19 11:20:13,099 - INFO - Extracting text from: ch02a-digitizing-images.pptx
+2025-02-19 11:20:13,099 - ERROR - Error extracting text from ch02a-digitizing-images.pptx: [Errno 13] Permission denied: 'C:\\Users\\tonys\\OneDrive\\Documents\\digital media\\Chapters\\ch2-converted\\pptx\\ch02a-digitizing-images.pptx'
+2025-02-19 11:20:13,099 - INFO - Extracting text from: ch02b-bitmap-vector.pptx
+2025-02-19 11:20:13,100 - ERROR - Error extracting text from ch02b-bitmap-vector.pptx: [Errno 13] Permission denied: 'C:\\Users\\tonys\\OneDrive\\Documents\\digital media\\Chapters\\ch2-converted\\pptx\\ch02b-bitmap-vector.pptx'
+2025-02-19 11:20:13,100 - INFO - Extracting text from: ch02c-file-compression.pptx
+2025-02-19 11:20:13,100 - ERROR - Error extracting text from ch02c-file-compression.pptx: [Errno 13] Permission denied: 'C:\\Users\\tonys\\OneDrive\\Documents\\digital media\\Chapters\\ch2-converted\\pptx\\ch02c-file-compression.pptx'
+2025-02-19 11:20:13,100 - INFO - Extracting text from: ch02d-color-representation.pptx
+2025-02-19 11:20:13,100 - ERROR - Error extracting text from ch02d-color-representation.pptx: [Errno 13] Permission denied: 'C:\\Users\\tonys\\OneDrive\\Documents\\digital media\\Chapters\\ch2-converted\\pptx\\ch02d-color-representation.pptx'
+2025-02-19 11:20:13,100 - INFO - 
+        Processing Complete:
+        - Total PPTX files: 4
+        - Successfully processed: 0
+        - Failed: 4
+        
+        Output locations:
+        - PPTX files: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\pptx
+        - Default text files: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\default
+        - Files with notes: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\noted
+        
+2025-02-19 11:20:36,433 - INFO - Found 4 PPT files to convert
+2025-02-19 11:20:37,043 - INFO - Converting to PPTX: ch02a-digitizing-images.ppt
+2025-02-19 11:20:43,307 - ERROR - Error converting to PPTX ch02a-digitizing-images.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:20:44,315 - INFO - Converting to PPTX: ch02b-bitmap-vector.ppt
+2025-02-19 11:20:50,574 - ERROR - Error converting to PPTX ch02b-bitmap-vector.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:20:51,581 - INFO - Converting to PPTX: ch02c-file-compression.ppt
+2025-02-19 11:20:57,811 - ERROR - Error converting to PPTX ch02c-file-compression.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:20:58,819 - INFO - Converting to PPTX: ch02d-color-representation.ppt
+2025-02-19 11:21:05,233 - ERROR - Error converting to PPTX ch02d-color-representation.ppt: (-2147467259, 'Unspecified error', ('Presentation (unknown member) : Failed.', 'Microsoft PowerPoint', '', 0, None))
+2025-02-19 11:21:06,375 - INFO - Found 4 PPTX files to process
+2025-02-19 11:21:06,375 - INFO - Output directories:
+2025-02-19 11:21:06,375 - INFO -   - Default text files: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\default
+2025-02-19 11:21:06,375 - INFO -   - Files with notes: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\noted
+2025-02-19 11:21:06,375 - INFO - Extracting text from: ch02a-digitizing-images.pptx
+2025-02-19 11:21:06,375 - ERROR - Error extracting text from ch02a-digitizing-images.pptx: [Errno 13] Permission denied: 'C:\\Users\\tonys\\OneDrive\\Documents\\digital media\\Chapters\\ch2-converted\\pptx\\ch02a-digitizing-images.pptx'
+2025-02-19 11:21:06,376 - INFO - Extracting text from: ch02b-bitmap-vector.pptx
+2025-02-19 11:21:06,376 - ERROR - Error extracting text from ch02b-bitmap-vector.pptx: [Errno 13] Permission denied: 'C:\\Users\\tonys\\OneDrive\\Documents\\digital media\\Chapters\\ch2-converted\\pptx\\ch02b-bitmap-vector.pptx'
+2025-02-19 11:21:06,376 - INFO - Extracting text from: ch02c-file-compression.pptx
+2025-02-19 11:21:06,376 - ERROR - Error extracting text from ch02c-file-compression.pptx: [Errno 13] Permission denied: 'C:\\Users\\tonys\\OneDrive\\Documents\\digital media\\Chapters\\ch2-converted\\pptx\\ch02c-file-compression.pptx'
+2025-02-19 11:21:06,376 - INFO - Extracting text from: ch02d-color-representation.pptx
+2025-02-19 11:21:06,376 - ERROR - Error extracting text from ch02d-color-representation.pptx: [Errno 13] Permission denied: 'C:\\Users\\tonys\\OneDrive\\Documents\\digital media\\Chapters\\ch2-converted\\pptx\\ch02d-color-representation.pptx'
+2025-02-19 11:21:06,377 - INFO - 
+        Processing Complete:
+        - Total PPTX files: 4
+        - Successfully processed: 0
+        - Failed: 4
+        
+        Output locations:
+        - PPTX files: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\pptx
+        - Default text files: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\default
+        - Files with notes: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\noted
+        
+2025-02-19 11:23:04,447 - INFO - Found 4 PPT files to convert
+2025-02-19 11:23:04,453 - INFO - Converting to PPTX: ch02a-digitizing-images.ppt
+2025-02-19 11:23:11,613 - INFO - Successfully converted to PPTX: ch02a-digitizing-images.ppt
+2025-02-19 11:24:12,757 - INFO - Converting to PPTX: ch02b-bitmap-vector.ppt
+2025-02-19 11:24:19,114 - INFO - Successfully converted to PPTX: ch02b-bitmap-vector.ppt
+2025-02-19 11:24:20,245 - INFO - Converting to PPTX: ch02c-file-compression.ppt
+2025-02-19 11:24:26,836 - INFO - Successfully converted to PPTX: ch02c-file-compression.ppt
+2025-02-19 11:25:27,943 - INFO - Converting to PPTX: ch02d-color-representation.ppt
+2025-02-19 11:25:37,802 - INFO - Successfully converted to PPTX: ch02d-color-representation.ppt
+2025-02-19 11:25:38,957 - INFO - Found 4 PPTX files to process
+2025-02-19 11:25:38,957 - INFO - Output directories:
+2025-02-19 11:25:38,957 - INFO -   - Default text files: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\default
+2025-02-19 11:25:38,957 - INFO -   - Files with notes: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\noted
+2025-02-19 11:25:38,957 - INFO - Extracting text from: ch02a-digitizing-images.pptx
+2025-02-19 11:25:39,009 - INFO - Created default version: ch02a-digitizing-images.txt
+2025-02-19 11:25:39,009 - INFO - Created version with notes: ch02a-digitizing-images.txt
+2025-02-19 11:25:39,011 - INFO - Extracting text from: ch02b-bitmap-vector.pptx
+2025-02-19 11:25:39,176 - INFO - Created default version: ch02b-bitmap-vector.txt
+2025-02-19 11:25:39,177 - INFO - Created version with notes: ch02b-bitmap-vector.txt
+2025-02-19 11:25:39,178 - INFO - Extracting text from: ch02c-file-compression.pptx
+2025-02-19 11:25:39,208 - INFO - Created default version: ch02c-file-compression.txt
+2025-02-19 11:25:39,209 - INFO - Created version with notes: ch02c-file-compression.txt
+2025-02-19 11:25:39,209 - INFO - Extracting text from: ch02d-color-representation.pptx
+2025-02-19 11:25:39,269 - INFO - Created default version: ch02d-color-representation.txt
+2025-02-19 11:25:39,269 - INFO - Created version with notes: ch02d-color-representation.txt
+2025-02-19 11:25:39,271 - INFO - 
+        Processing Complete:
+        - Total PPTX files: 4
+        - Successfully processed: 4
+        - Failed: 0
+        
+        Output locations:
+        - PPTX files: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\pptx
+        - Default text files: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\default
+        - Files with notes: C:\Users\tonys\OneDrive\Documents\digital media\Chapters\ch2-converted\text\noted
+        
